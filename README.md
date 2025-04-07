@@ -2,8 +2,8 @@
 
 <!--
 **HAL9386/HAL9386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
+Here are some ideas cant get me started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![shBro's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=HAL9386&theme=catppuccin_latte&layout=compact&size_weight=0.5&count_weight=0.5&hide=html,css,jupyter%20notebook,shell,dockerfile&show_icons=true)](https://github.com/HAL9386)
